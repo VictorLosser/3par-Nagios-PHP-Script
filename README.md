@@ -1,6 +1,6 @@
 # Nagios check_3par
 
-Basic support for monitoring HP 3PAR arrays by Nagios
+Basic support for monitoring HP 3PAR arrays by Nagios. Also on Nagios Exchange : https://exchange.nagios.org/directory/Plugins/Hardware/Storage-Systems/SAN-and-NAS/3PAR-Check-Script-%28PHP%29/details
 
 ## Usage
 ```
